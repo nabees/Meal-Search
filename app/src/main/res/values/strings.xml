@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meal Categories</string>
+    <string name="list_error_message">Error while loading the page..</string>
+    <string name="imageView_description">Meals Category Image</string>
+    <string name="image_description">Food Picture</string>
+    <string name="meals_list_error">Error while loading data…</string>
+    <string name="application_name">Meal Categories</string>
+    <string name="meal_image_description">Meal Image Description</string>
+</resources>
